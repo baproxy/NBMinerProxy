@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NBMinerProxy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pool" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ssl://eth.ss.poolin.me:5222</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15555</Value>
+    </Setting>
+    <Setting Name="devpool" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ssl://eth.ss.poolin.me:5222</Value>
+    </Setting>
+    <Setting Name="ethaddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0x46baD2c3b04A7A5cc055F1e8782782077DDaEb8B</Value>
+    </Setting>
+    <Setting Name="devfee" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ssl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="devworkername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dev003</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
